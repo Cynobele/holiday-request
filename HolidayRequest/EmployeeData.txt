@@ -1,0 +1,5 @@
+1,Cameron,Harrison,21,M,14,11,
+2,Eleanor,Findlay,21,F,23,2,
+3,Bartek,Kajda,21,M,25,0,
+4,Mark,Spinnel,21,M,2,23,
+5,Jake,Johnston,22,M,12,16,
